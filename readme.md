@@ -1,8 +1,6 @@
-Scrolling Text
+Scrolling Text2
 ==========================
-## Coding Challenge
-
-<p> New button called add comment has been added to the bottom of the article. </p>
+## Homework
 
 #### Video
 ![](./video.gif)
